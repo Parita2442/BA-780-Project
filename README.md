@@ -1,2 +1,11 @@
 # BA-780-Project
-EDA - Hotel booking trends in Portugal
+Exploratory data analysis for customer behavior in hotel bookings in Portugal.
+
+Project Contributors:
+
+Ananya Anand <br>
+Khushi Khushi <br>
+Lorelei Liu <br>
+Olimpia Borgohain <br>
+Parita Patel <br>
+Priyanka Chaudhari <br>
